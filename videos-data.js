@@ -26,12 +26,12 @@ const VIDEOS = [
     title: "Quest System",
     description: "A quest and dialogue system where a farmer NPC offers the player a job player has to collect his apples and get paid for it. Quest progress and the reward are saved through DataStores, so nothing resets between sessions",
     tags: ["Quest", "NPCs","Datastores"],
-    type: "medal",
-    src: "https://medal.tv/games/roblox-studio/clips/nwkbH4cYoplSIU1YU"
+    type: "file",
+    src: "quest.mp4"
   },
   {
-    title: "Add another project",
-    description: "Keep going here. Two or three strong demos with a short breakdown of what each system does will say more than a long list.",
+    title: "SOON",
+    description: "Soon, whenever i have time to add it onto the website lol.",
     tags: ["Placeholder"],
     type: "placeholder",
     src: ""
